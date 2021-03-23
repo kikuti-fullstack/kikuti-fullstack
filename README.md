@@ -1,4 +1,7 @@
 <h1 align="center">Olá mundo! eu sou o <b>kikuti!</b></h1>
+<a href="https://github.com/kikuti-fullstack">
+  <img src="https://komarev.com/ghpvc/?username=kikuti-fullstack&style=flat-square" />
+</a>
 
 <br />
 
