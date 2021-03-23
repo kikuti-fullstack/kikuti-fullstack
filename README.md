@@ -12,4 +12,4 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saviomartin&theme=radical&title_color=8E2DE2&text_color=fff)
 
-<img src="https://github.com/saviomartin/saviomartin/blob/master/assets/repo.png?raw=true">
+<img src="https://github.com/saviomartin/kikuti-fullstack/blob/master/assets/repo.png?raw=true">
