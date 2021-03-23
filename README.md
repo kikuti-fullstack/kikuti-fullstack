@@ -1,4 +1,5 @@
 <h2 align="center">Olá mundo! eu sou o <b>kikuti</b></h2>
+<img src="http://orig00.deviantart.net/2518/f/2014/152/d/d/defalt_watch_dogs_by_fitket-d7km2vj.jpg" />
 
 <div align="center">
   <img src="https://img.shields.io/badge/html%205-grey?style=for-the-badge&logo=html5&logoColor=white&labelColor=8E2DE2" />
