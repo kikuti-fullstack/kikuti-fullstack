@@ -1,4 +1,4 @@
-<p align="center" style="font-size: 24px !important">Olá mundo! eu sou o <b>kikuti</b></p>
+<h2 align="center">Olá mundo! eu sou o <b>kikuti</b></h2>
 
 <div align="center" style="color:red;" style="display: display: flex !important; justify-content: space-evenly !important;">
   
