@@ -1,6 +1,6 @@
 <p align="center" style="font-size: 24px !important">Olá mundo! eu sou o <b>kikuti</b></p>
 
-<div align="center" style="display: display: flex !important; justify-content: space-evenly !important;">
+<div align="center" style="color:red;" style="display: display: flex !important; justify-content: space-evenly !important;">
   
   <img src="https://img.shields.io/badge/html%205-grey?style=for-the-badge&logo=html5&logoColor=white&labelColor=8E2DE2" />
   <img src="https://img.shields.io/badge/css%203-grey?style=for-the-badge&logo=css3&logoColor=white&labelColor=8E2DE2)" />
