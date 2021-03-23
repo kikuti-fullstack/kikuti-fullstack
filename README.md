@@ -3,10 +3,10 @@
 <br />
 
 <div align="center">
-  <img border="1px black solid" src="https://img.shields.io/badge/html%205-fafafa?style=for-the-badge&logo=html5&logoColor=fafafa&labelColor=012cd1" />
-  <img src="https://img.shields.io/badge/css%203-fafafa?style=for-the-badge&logo=css3&logoColor=fafafa&labelColor=012cd1" />
-  <img src="https://img.shields.io/badge/-JavaScript-fafafa?style=for-the-badge&logo=javascript&logoColor=fafafa&labelColor=012cd1" />
-  <img src="https://img.shields.io/badge/-git-fafafa?style=for-the-badge&logo=git&logoColor=fafafa&labelColor=012cd1" />
+  <img src="https://img.shields.io/badge/html%205-012cd1?style=for-the-badge&logo=html5&logoColor=fafafa&labelColor=012cd1" />
+  <img src="https://img.shields.io/badge/css%203-012cd1?style=for-the-badge&logo=css3&logoColor=fafafa&labelColor=012cd1" />
+  <img src="https://img.shields.io/badge/-JavaScript-012cd1?style=for-the-badge&logo=javascript&logoColor=fafafa&labelColor=012cd1" />
+  <img src="https://img.shields.io/badge/-git-012cd1?style=for-the-badge&logo=git&logoColor=fafafa&labelColor=012cd1" />
   <img src="https://img.shields.io/badge/-github-012cd1?style=for-the-badge&logo=github&logoColor=fafafa&labelColor=012cd1" />
 </div>
 
