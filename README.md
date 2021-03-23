@@ -1,3 +1,8 @@
+<style>
+  h1 {color:red;}
+  p {color:blue;}
+</style>
+
 <h2 align="center">Olá mundo! eu sou o <b>kikuti</b></h2>
 
 <div align="center">
