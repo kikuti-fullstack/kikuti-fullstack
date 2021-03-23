@@ -1,7 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
 <style>
-  h1 {color:red;}
-  p {color:blue;}
+h1 {color:red;}
+p {color:blue;}
 </style>
+</head>
+<body>
 
 <h2 align="center">Olá mundo! eu sou o <b>kikuti</b></h2>
 
@@ -16,3 +21,4 @@
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kikuti-fullstack&theme=radical&title_color=8E2DE2&text_color=fff" />
 </div>
+</body>
