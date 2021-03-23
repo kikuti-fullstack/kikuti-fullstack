@@ -1,7 +1,4 @@
 <h1 align="center">Olá mundo! eu sou o <b>kikuti!</b></h1>
-<a href="https://github.com/kikuti-fullstack">
-  <img src="https://komarev.com/ghpvc/?username=kikuti-fullstack&style=flat-square" />
-</a>
 
 <br />
 
@@ -20,3 +17,6 @@
 <br />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kikuti-fullstack&theme=radical&title_color=012cd1&text_color=fafafa" />
 
+<a href="https://github.com/kikuti-fullstack">
+  <img src="https://komarev.com/ghpvc/?username=kikuti-fullstack&style=flat-square&logoColor=fafafa&labelColor=012cd1" />
+</a>
