@@ -12,9 +12,9 @@
 <br />
 <hr>
 
-<img src="https://github-readme-stats.vercel.app/api?username=kikuti-fullstack&show_icons=true&theme=radical&title_color=0124b4&text_color=fafafa&icon_color=012cd1" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=kikuti-fullstack&show_icons=true&theme=radical&title_color=0124b4&text_color=fafafa&icon_color=012cd1" />
 <br />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kikuti-fullstack&theme=radical&title_color=012cd1&text_color=fafafa" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kikuti-fullstack&theme=radical&title_color=012cd1&text_color=fafafa" />
 
 <hr>
 
