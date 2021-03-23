@@ -12,7 +12,7 @@
 
 <br>
 
-<div align="center" style="background-color: red !important">
+<div align="center" style="">
   <img src="https://github-readme-stats.vercel.app/api?username=kikuti-fullstack&show_icons=true&theme=radical&title_color=0124b4&text_color=fafafa&icon_color=012cd1">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kikuti-fullstack&theme=radical&title_color=012cd1&text_color=fafafa" />
 </div>
