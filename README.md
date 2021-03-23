@@ -10,11 +10,14 @@
 
 <br />
 <br />
+<hr>
 
 <img src="https://github-readme-stats.vercel.app/api?username=kikuti-fullstack&show_icons=true&theme=radical&title_color=0124b4&text_color=fafafa&icon_color=012cd1" />
 <br />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kikuti-fullstack&theme=radical&title_color=012cd1&text_color=fafafa" />
 
-<a href="https://github.com/kikuti-fullstack">
+<hr>
+
+<a align="center" href="https://github.com/kikuti-fullstack">
   <img src="https://komarev.com/ghpvc/?username=kikuti-fullstack&style=flat-square&logoColor=fafafa&labelColor=012cd1" />
 </a>
