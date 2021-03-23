@@ -1,4 +1,4 @@
-<h1 align="center">Olá mundo! eu sou o <b>kikuti!</b></h1>
+<h3 align="center">Olá mundo! eu sou o <b>kikuti!</b></h3>
 
 <br />
 
