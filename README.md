@@ -1,7 +1,7 @@
 <h1 align="center">Olá mundo! eu sou o <b>kikuti!</b></h1>
 <br>
 <div align="center">
-  <img src="https://img.shields.io/badge/html%205-red?style=for-the-badge&logo=html5&logoColor=fafafa&labelColor=012cd1" />
+  <img src="https://img.shields.io/badge/html%205-fafafa?style=for-the-badge&logo=html5&logoColor=fafafa&labelColor=012cd1" />
   <img src="https://img.shields.io/badge/css%203-grey?style=for-the-badge&logo=css3&logoColor=fafafa&labelColor=012cd1" />
   <img src="https://img.shields.io/badge/-JavaScript-grey?style=for-the-badge&logo=javascript&logoColor=fafafa&labelColor=012cd1" />
   <img src="https://img.shields.io/badge/-git-grey?style=for-the-badge&logo=git&logoColor=fafafa&labelColor=012cd1" />
