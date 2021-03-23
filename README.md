@@ -1,6 +1,4 @@
-<h3 align="center">Olá mundo! eu sou o <b>kikuti!</b></h3>
-
-<br />
+<h3 align="center">Olá mundo! eu sou o kikuti!</h3>
 
 <div align="center">
   <img src="https://img.shields.io/badge/html%205-012cd1?style=for-the-badge&logo=html5&logoColor=fafafa&labelColor=012cd1" />
