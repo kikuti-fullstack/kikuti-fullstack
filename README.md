@@ -14,7 +14,7 @@
 <hr>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kikuti-fullstack&show_icons=true&theme=radical&title_color=0124b4&text_color=fafafa&icon_color=012cd1" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kikuti-fullstack&show_icons=true&theme=dark&title_color=0fa36b&text_color=fafafa&icon_color=0fa36b&bg_color=0d1117&locale=pt-br" />
 </div>
 
 <br />
