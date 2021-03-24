@@ -1,11 +1,11 @@
 <h3 align="center">Olá mundo! eu sou o kikuti!</h3>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/html%205-012cd1?style=for-the-badge&logo=html5&logoColor=fafafa&labelColor=0fa36b" />
-  <img src="https://img.shields.io/badge/css%203-012cd1?style=for-the-badge&logo=css3&logoColor=fafafa&labelColor=0fa36b" />
-  <img src="https://img.shields.io/badge/-JavaScript-012cd1?style=for-the-badge&logo=javascript&logoColor=fafafa&labelColor=0fa36b" />
-  <img src="https://img.shields.io/badge/-git-012cd1?style=for-the-badge&logo=git&logoColor=fafafa&labelColor=0fa36b" />
-  <img src="https://img.shields.io/badge/-github-012cd1?style=for-the-badge&logo=github&logoColor=fafafa&labelColor=0fa36b" />
+  <img src="https://img.shields.io/badge/html%205-0fa36b?style=for-the-badge&logo=html5&logoColor=fafafa&labelColor=0fa36b" />
+  <img src="https://img.shields.io/badge/css%203-0fa36b?style=for-the-badge&logo=css3&logoColor=fafafa&labelColor=0fa36b" />
+  <img src="https://img.shields.io/badge/-JavaScript-0fa36b?style=for-the-badge&logo=javascript&logoColor=fafafa&labelColor=0fa36b" />
+  <img src="https://img.shields.io/badge/-git-0fa36b?style=for-the-badge&logo=git&logoColor=fafafa&labelColor=0fa36b" />
+  <img src="https://img.shields.io/badge/-github-0fa36b?style=for-the-badge&logo=github&logoColor=fafafa&labelColor=0fa36b" />
 </div>
 
 <br />
