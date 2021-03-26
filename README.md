@@ -13,11 +13,11 @@
 
 <hr>
 
+<img align="right" src="https://cdn130.picsart.com/342786697015211.png?type=webp&to=min&r=640" width="240px" />
+
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=kikuti-fullstack&show_icons=true&theme=dark&title_color=0fa36b&text_color=fafafa&icon_color=0fa36b&bg_color=0d1117&locale=pt-br&border_radius=8&cache_seconds=1800&custom_title=kikuti-fullstack%20-%20Jo%C3%A3o%20Victor%20Kikuti" />
 </div>
-
-<img align="right" src="https://cdn130.picsart.com/342786697015211.png?type=webp&to=min&r=640" width="240px" />
 
 <br />
 
