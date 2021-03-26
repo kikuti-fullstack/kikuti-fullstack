@@ -23,7 +23,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kikuti-fullstack&text_color=fafafa&bg_color=0d1117&locale=pt-br&border_radius=8&cache_seconds=1800&theme=dark&title_color=0fa36b" />
 </div>
 
-<img src="https://cdn130.picsart.com/342786697015211.png?type=webp&to=min&r=640" />
+<img align="right" src="https://cdn130.picsart.com/342786697015211.png?type=webp&to=min&r=640" width="400px" />
 
 <hr>
 
