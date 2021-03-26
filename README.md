@@ -10,6 +10,8 @@
   <img src="https://img.shields.io/badge/-github-0fa36b?style=for-the-badge&logo=github&logoColor=fafafa&labelColor=0fa36b?" />
 </div>
 
+<br />
+
 <hr>
 
 <h4> 🖥️ SOBRE MIM</h4>
