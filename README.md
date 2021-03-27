@@ -47,12 +47,12 @@
   <br/ >
   <img align="right" width="320px" src="https://user-images.strikinglycdn.com/res/hrscywv4p/image/upload/c_limit,fl_lossy,h_1440,w_720,f_auto,q_60/912343/724354_247835.gif" />
 
-  <img align="center" width="400px" src="https://github-readme-stats.vercel.app/api?username=kikuti-fullstack&show_icons=true&theme=dark&title_color=0fa36b&text_color=fafafa&icon_color=0fa36b&bg_color=0d1117&locale=pt-br&border_radius=8&?cacheSeconds=3600&custom_title=Jo%C3%A3o%20Victor%20Kikuti%20- Estatísticas" />
+  <img align="center" width="400px" src="https://github-readme-stats.vercel.app/api?username=kikuti-fullstack&show_icons=true&theme=dark&title_color=0fa36b&text_color=fafafa&icon_color=0fa36b&bg_color=0d1117&locale=pt-br&border_radius=8&cache_seconds=1800&custom_title=Jo%C3%A3o%20Victor%20Kikuti%20- Estatísticas" />
 
   <br />
   <br />
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kikuti-fullstack&text_color=fafafa&bg_color=0d1117&locale=pt-br&border_radius=8&?cacheSeconds=3600&theme=dark&title_color=0fa36b" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kikuti-fullstack&layout=compact&text_color=fafafa&bg_color=0d1117&locale=pt-br&border_radius=8&cache_seconds=1800&theme=dark&title_color=0fa36b" />
 </div>
 
 <hr />
