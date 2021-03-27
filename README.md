@@ -30,10 +30,10 @@
 <h4 align="center">♥️ Melhores Amigos e Professores ♥️</h4>
 
 <ul>
-  <a href="https://github.com/ednilsonlomazi"><li>🐧Ednilson Lomazi</li></a>
-  <li><a href="#">Colocar depois</a></li>
-  <li><a href="#">Colocar depois</a></li>
-  <li><a href="#">Colocar depois</a></li>
+  <li><a target="_blank" href="https://github.com/ednilsonlomazi"><p>🐧Ednilson Lomazi</p></a></li>
+  <li><a target="_blank" href="https://github.com/williansbueno"><p>🐧Willians Bueno</p></a></li>
+  <li><a target="_blank" href="#"><p>🐧Wendeu</p></a></li>
+  <li><a target="_blank" href="https://github.com/alexandresalvatierra"><p>🐧Alexandre Salvatierra</p></a></li>
 </ul>
 
 <hr />
