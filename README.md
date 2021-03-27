@@ -58,8 +58,8 @@
 <hr />
 
 <div align="center">
-⠀⠀<a href="https://github.com/kikuti-fullstack/kikuti-trybe-exercises"><img width="400px" src="https://github-readme-stats.vercel.app/api/pin/?username=kikuti-fullstack&repo=kikuti-trybe-exercises&show_icons=true&theme=dark&title_color=0fa36b&text_color=fff&icon_color=8E2DE2)"></a>⠀⠀
-  <a href="https://github.com/kikuti-fullstack/kikuti-portifolio"><img width="400px" src="https://github-readme-stats.vercel.app/api/pin/?username=kikuti-fullstack&repo=kikuti-portifolio&show_icons=true&theme=dark&title_color=0fa36b&text_color=fff&icon_color=8E2DE2)"></a>
+⠀⠀<a href="https://github.com/kikuti-fullstack/kikuti-trybe-exercises"><img width="400px" src="https://github-readme-stats.vercel.app/api/pin/?username=kikuti-fullstack&repo=kikuti-trybe-exercises&show_icons=true&theme=dark&title_color=0fa36b&text_color=fff&icon_color=8E2DE2&cache_seconds=1800"></a>⠀⠀
+  <a href="https://github.com/kikuti-fullstack/kikuti-portifolio"><img width="400px" src="https://github-readme-stats.vercel.app/api/pin/?username=kikuti-fullstack&repo=kikuti-portifolio&show_icons=true&theme=dark&title_color=0fa36b&text_color=fff&icon_color=8E2DE2&cache_seconds=1800"></a>
 </div>
 
 <hr />
