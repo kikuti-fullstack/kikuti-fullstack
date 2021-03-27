@@ -13,7 +13,7 @@
   </div>
 </div>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=kikuti-fullstack)
+![](https://komarev.com/ghpvc/?username=kikuti-fullstack&color=0fa36b)
 
 <br />
 <br />
