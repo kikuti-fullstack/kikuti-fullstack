@@ -42,8 +42,8 @@
 <hr>
 
 <tr>
-  <td><a href="https://github.com/kikuti-fullstack/kikuti-trybe-exercises"><img width="320px" align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=kikuti-fullstack&repo=kikuti-trybe-exercises&show_icons=true&theme=dark&title_color=0fa36b&text_color=fff&icon_color=8E2DE2)"></a></tr>
-  <td><a href="https://github.com/kikuti-fullstack/kikuti-portifolio"><img width="320px" align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=kikuti-fullstack&repo=kikuti-portifolio&show_icons=true&theme=dark&title_color=0fa36b&text_color=fff&icon_color=8E2DE2)"></a></tr>
+  <td><a href="https://github.com/kikuti-fullstack/kikuti-trybe-exercises"><img width="320px" align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=kikuti-fullstack&repo=kikuti-trybe-exercises&show_icons=true&theme=dark&title_color=0fa36b&text_color=fff&icon_color=8E2DE2)"></a></td>
+  <td><a href="https://github.com/kikuti-fullstack/kikuti-portifolio"><img width="320px" align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=kikuti-fullstack&repo=kikuti-portifolio&show_icons=true&theme=dark&title_color=0fa36b&text_color=fff&icon_color=8E2DE2)"></a></td>
 </tr>
 
 <hr>
