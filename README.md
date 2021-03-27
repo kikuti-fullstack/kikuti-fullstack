@@ -13,7 +13,7 @@
   </div>
 </div>
 
-<img src="https://komarev.com/ghpvc/?username=kikuti-fullstack&color=0fa36b" />
+<img align="center" src="https://komarev.com/ghpvc/?username=kikuti-fullstack&color=0fa36b" />
 
 <br />
 <br />
