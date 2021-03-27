@@ -30,7 +30,7 @@
 <h4 align="center">♥️ Melhores Amigos e Professores ♥️</h4>
 
 <ul>
-  <li><a href="https://github.com/ednilsonlomazi">Ednilson Lomazi</a></li>
+  <a href="https://github.com/ednilsonlomazi"><li>🐧Ednilson Lomazi</li></a>
   <li><a href="#">Colocar depois</a></li>
   <li><a href="#">Colocar depois</a></li>
   <li><a href="#">Colocar depois</a></li>
