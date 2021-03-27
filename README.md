@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img width="160px" src="https://ibb.co/GkvM4p7" alt="Minha foto de perfil, ela é verde em formato de V">
+  <img width="160px" src="https://avatars.githubusercontent.com/u/12498746?s=400&u=3a18bbe9442e24787a8a37edba6efb8953ce150b&v=4" alt="Minha foto de perfil, ela é verde em formato de V">
   </a><h3 align="center">🄷🄴🄻🄻🄾 🅆🄾🅁🄻🄳! <br/ > Eu sou o kikuti!</h3></a>
 
   <div align="center">
