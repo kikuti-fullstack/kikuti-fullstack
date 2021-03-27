@@ -18,7 +18,7 @@
 
 <h4> 🖥️ SOBRE MIM</h4>
 
-<img align="right" width="240px" src="https://ayfaatechnology.com/wp-content/themes/ayfaa-theme/ayfaa/images/home.gif">
+<img align="right" width="400px" src="https://ayfaatechnology.com/wp-content/themes/ayfaa-theme/ayfaa/images/home.gif">
 
 <p>Quem sou: sou um programador focado em web que gosta muito de mexer com design, front end e back end. Atualmente estudo na Unifeb (ensino superior, Barretos-SP) e na Trybe (curso de especialização web). Nasci em uma cidade pequena, mas sempre tive um grande sonho de aprender o máximo possível de tudo que envolva tecnologia.</p>
 <p>Objetivo: pretendo ser um programador fullstack, eu adoro tudo que envolva programação ou que dependa de raciocínio lógico desde criança.</p>
