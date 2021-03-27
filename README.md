@@ -17,7 +17,7 @@
 <br />
 <hr />
 
-<img align="right" width="400px" src="https://ayfaatechnology.com/wp-content/themes/ayfaa-theme/ayfaa/images/home.gif" alt="Um gif sobre tecnologia">
+<img align="right" width="320px" src="https://ayfaatechnology.com/wp-content/themes/ayfaa-theme/ayfaa/images/home.gif" alt="Um gif sobre tecnologia">
 
 <h3>🖥️ SOBRE MIM</h3>
 
