@@ -42,6 +42,7 @@
   <img width="400px" src="https://github-readme-stats.vercel.app/api?username=kikuti-fullstack&show_icons=true&theme=dark&title_color=0fa36b&text_color=fafafa&icon_color=0fa36b&bg_color=0d1117&locale=pt-br&border_radius=8&?cacheSeconds=3600&custom_title=Jo%C3%A3o%20Victor%20Kikuti%20- Estatísticas" />
 
   <br />
+  <br />
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kikuti-fullstack&text_color=fafafa&bg_color=0d1117&locale=pt-br&border_radius=8&?cacheSeconds=3600&theme=dark&title_color=0fa36b" />
 </div>
