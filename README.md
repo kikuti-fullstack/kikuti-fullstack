@@ -30,10 +30,10 @@
 <h4 align="center">♥️ Melhores Amigos e Professores ♥️</h4>
 
 <ul>
-  <li><a target="_blank" href="https://github.com/ednilsonlomazi"><strong>🐧&nbspEdnilson Lomazi</strong></a></li>
-  <li><a target="_blank" href="https://github.com/williansbueno"><strong>🐧&nbspWillians Bueno</strong></a></li>
-  <li><a target="_blank" href="#"><strong>🐧&nbspWendeu</strong></a></li>
-  <li><a target="_blank" href="https://github.com/alexandresalvatierra"><strong>🐧&nbspAlexandre Salvatierra</strong></a></li>
+  <li><a target="_blank" href="https://github.com/ednilsonlomazi"><strong>🐧 Ednilson Lomazi</strong></a><p>- amigo de faculdade, domina {Python, C++, C, SQL, Linux}</p></li>
+  <li><a target="_blank" href="https://github.com/williansbueno"><strong>⚙️ Willians Bueno</strong></a><p>- coordenador da faculdade, entende tudo sobre {SO 'sistema operacional' e Hardware}</p></li>
+  <li><a target="_blank" href="#"><strong>🌈 Wendeu</strong></a><p>- professor da faculdade, mestre em {Oferecer os glúteos}</p></li>
+  <li><a target="_blank" href="https://github.com/alexandresalvatierra"><strong>🌐 Alexandre Salvatierra</strong></a><p>- professor da faculdade, domina {Web (Front-end, Back-end), Design e Python}</p></li>
 </ul>
 
 <hr />
