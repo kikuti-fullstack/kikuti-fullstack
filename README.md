@@ -1,15 +1,15 @@
 
 <div align="center">
-<img width="160px" src="https://avatars.githubusercontent.com/u/12498746?s=400&u=3a18bbe9442e24787a8a37edba6efb8953ce150b&v=4">
-</a><h3 align="center">🄷🄴🄻🄻🄾 🅆🄾🅁🄻🄳! <br/ > I'm kikuti!</h3></a>
+  <img width="160px" src="https://avatars.githubusercontent.com/u/12498746?s=400&u=3a18bbe9442e24787a8a37edba6efb8953ce150b&v=4">
+  </a><h3 align="center">🄷🄴🄻🄻🄾 🅆🄾🅁🄻🄳! <br/ > Eu sou o kikuti!</h3></a>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/html%205-0fa36b?style=for-the-badge&logo=html5&logoColor=fafafa&labelColor=0fa36b?" />
-  <img src="https://img.shields.io/badge/css%203-0fa36b?style=for-the-badge&logo=css3&logoColor=fafafa&labelColor=0fa36b?" />
-  <img src="https://img.shields.io/badge/-JavaScript-0fa36b?style=for-the-badge&logo=javascript&logoColor=fafafa&labelColor=0fa36b?" />
-  <img src="https://img.shields.io/badge/-git-0fa36b?style=for-the-badge&logo=git&logoColor=fafafa&labelColor=0fa36b?" />
-  <img src="https://img.shields.io/badge/-github-0fa36b?style=for-the-badge&logo=github&logoColor=fafafa&labelColor=0fa36b?" />
-</div>
+  <div align="center">
+    <img src="https://img.shields.io/badge/html%205-0fa36b?style=for-the-badge&logo=html5&logoColor=fafafa&labelColor=0fa36b?" />
+    <img src="https://img.shields.io/badge/css%203-0fa36b?style=for-the-badge&logo=css3&logoColor=fafafa&labelColor=0fa36b?" />
+    <img src="https://img.shields.io/badge/-JavaScript-0fa36b?style=for-the-badge&logo=javascript&logoColor=fafafa&labelColor=0fa36b?" />
+    <img src="https://img.shields.io/badge/-git-0fa36b?style=for-the-badge&logo=git&logoColor=fafafa&labelColor=0fa36b?" />
+    <img src="https://img.shields.io/badge/-github-0fa36b?style=for-the-badge&logo=github&logoColor=fafafa&labelColor=0fa36b?" />
+  </div>
 </div>
 
 <br />
@@ -17,6 +17,8 @@
 <hr>
 
 <h4> 🖥️ SOBRE MIM</h4>
+
+<img align="right" width="240px" src="https://ayfaatechnology.com/wp-content/themes/ayfaa-theme/ayfaa/images/home.gif">
 
 <p>Quem sou: sou um programador focado em web que gosta muito de mexer com design, front end e back end. Atualmente estudo na Unifeb (ensino superior, Barretos-SP) e na Trybe (curso de especialização web). Nasci em uma cidade pequena, mas sempre tive um grande sonho de aprender o máximo possível de tudo que envolva tecnologia.</p>
 <p>Objetivo: pretendo ser um programador fullstack, eu adoro tudo que envolva programação ou que dependa de raciocínio lógico desde criança.</p>
