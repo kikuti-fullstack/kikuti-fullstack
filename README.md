@@ -41,11 +41,12 @@
 
 <hr>
 
-<div>
+<div align="center">
   <a href="https://github.com/kikuti-fullstack/kikuti-trybe-exercises"><img width="320px" src="https://github-readme-stats.vercel.app/api/pin/?username=kikuti-fullstack&repo=kikuti-trybe-exercises&show_icons=true&theme=dark&title_color=0fa36b&text_color=fff&icon_color=8E2DE2)"></a>
 
   <a href="https://github.com/kikuti-fullstack/kikuti-portifolio"><img align="right" width="320px" src="https://github-readme-stats.vercel.app/api/pin/?username=kikuti-fullstack&repo=kikuti-portifolio&show_icons=true&theme=dark&title_color=0fa36b&text_color=fff&icon_color=8E2DE2)"></a>
 </div>
 
 <hr>
-Colocar aqui depois imagens de: gmail, linkedin, discord, wpp, portifolio
+
+<h3 align="center">Colocar aqui depois imagens de: gmail, linkedin, discord, wpp, portifolio</h3>
