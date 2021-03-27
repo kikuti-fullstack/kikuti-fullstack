@@ -30,6 +30,7 @@
 <h4 align="center">♥️ Melhores Amigos e Professores ♥️</h4>
 
 <ul>
+  [go](https://github.com/ednilsonlomazi)
   <li><a href="https://github.com/ednilsonlomazi" target="_blank"><strong>🐧 Ednilson Lomazi</strong></a><span> - amigo de faculdade, domina {Python, C++, C, SQL, Linux}</span></li>
   <li><a href="https://github.com/williansbueno" target="_blank"><strong>⚙️ Willians Bueno</strong></a><span> - coordenador da faculdade, entende tudo sobre {SO 'sistema operacional' e Hardware}</span></li>
   <li><a href="#" target="_blank"><strong>🌈 Wendeu</strong></a><span> - professor da faculdade, mestre em {Oferecer os glúteos}</span></li>
