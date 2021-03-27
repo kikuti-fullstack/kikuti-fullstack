@@ -9,7 +9,10 @@
     <img src="https://img.shields.io/badge/css%203-0fa36b?style=for-the-badge&logo=css3&logoColor=fafafa&labelColor=0fa36b?" />
     <img src="https://img.shields.io/badge/-JavaScript-0fa36b?style=for-the-badge&logo=javascript&logoColor=fafafa&labelColor=0fa36b?" />
     <img src="https://img.shields.io/badge/-git-0fa36b?style=for-the-badge&logo=git&logoColor=fafafa&labelColor=0fa36b?" />
-    <img src="https://img.shields.io/badge/-github-0fa36b?style=for-the-badge&logo=github&logoColor=fafafa&labelColor=0fa36b?" /><br />
+    <img src="https://img.shields.io/badge/-github-0fa36b?style=for-the-badge&logo=github&logoColor=fafafa&labelColor=0fa36b?" />
+
+    <br />
+ 
     <img src="https://komarev.com/ghpvc/?username=kikuti-fullstack&color=0fa36b" />
   </div>
 </div>
