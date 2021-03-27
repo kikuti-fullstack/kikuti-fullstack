@@ -18,13 +18,15 @@
 <br />
 <hr />
 
-<img align="right" width="320px" src="https://ayfaatechnology.com/wp-content/themes/ayfaa-theme/ayfaa/images/home.gif" alt="Um gif sobre tecnologia">
+<div align="center">
+  <img align="right" width="320px" src="https://ayfaatechnology.com/wp-content/themes/ayfaa-theme/ayfaa/images/home.gif" alt="Um gif sobre tecnologia">
 
-<h3>🖥️ SOBRE MIM</h3>
+  <h3>🖥️ SOBRE MIM</h3>
 
-<p><strong>Quem sou:</strong> sou um programador focado em web que gosta muito de mexer com design, front end e back end. Atualmente estudo na Unifeb (ensino superior, Barretos-SP) e na Trybe (curso de especialização web). Nasci em uma cidade pequena, mas sempre tive um grande sonho de aprender o máximo possível de tudo que envolva tecnologia.</p>
+  <p><strong>Quem sou:</strong> sou um programador focado em web que gosta muito de mexer com design, front end e back end. Atualmente estudo na Unifeb (ensino superior, Barretos-SP) e na Trybe (curso de especialização web). Nasci em uma cidade pequena, mas sempre tive um grande sonho de aprender o máximo possível de tudo que envolva tecnologia.</p>
 
-<p><strong>Objetivo:</strong> pretendo ser um programador fullstack, eu adoro tudo que envolva programação ou que dependa de raciocínio lógico desde criança.</p>
+  <p><strong>Objetivo:</strong> pretendo ser um programador fullstack, eu adoro tudo que envolva programação ou que dependa de raciocínio lógico desde criança.</p>
+</div>
 
 <hr />
 
