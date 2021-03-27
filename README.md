@@ -27,10 +27,10 @@
 
 <hr />
 
-<h4 align="center">Amigos que carrego no peito</h4>
+<h4 align="center">♥️ Melhores Amigos e Professores ♥️</h4>
 
 <ul>
-  <li><a href="#">Colocar depois</a></li>
+  <li><a href="https://github.com/ednilsonlomazi">Ednilson Lomazi</a></li>
   <li><a href="#">Colocar depois</a></li>
   <li><a href="#">Colocar depois</a></li>
   <li><a href="#">Colocar depois</a></li>
