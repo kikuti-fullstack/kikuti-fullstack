@@ -1,6 +1,6 @@
 
 <div align="center">
-<img align="right" width="160px" src="https://avatars.githubusercontent.com/u/12498746?s=400&u=3a18bbe9442e24787a8a37edba6efb8953ce150b&v=4">
+<img width="160px" src="https://avatars.githubusercontent.com/u/12498746?s=400&u=3a18bbe9442e24787a8a37edba6efb8953ce150b&v=4">
 </a><h3 align="center">🄷🄴🄻🄻🄾 🅆🄾🅁🄻🄳! <br/ > Eu sou o kikuti!</h3></a>
 
 <div align="center">
