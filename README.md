@@ -43,7 +43,7 @@
   <br />
   <br />
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kikuti-fullstack&layout=compact&text_color=fafafa&bg_color=0d1117&locale=pt-br&border_radius=8&cache_seconds=1800&theme=dark&title_color=0fa36b" />
+  <img align="center" src="https://s4.gifyu.com/images/content-homepage-digital-org-leader.gif" />
 </div>
 
 <hr />
