@@ -11,6 +11,7 @@
     <img src="https://img.shields.io/badge/-git-0fa36b?style=for-the-badge&logo=git&logoColor=fafafa&labelColor=0fa36b?" />
     <img src="https://img.shields.io/badge/-github-0fa36b?style=for-the-badge&logo=github&logoColor=fafafa&labelColor=0fa36b?" />
     <br />
+    <img src="https://komarev.com/ghpvc/?username=kikuti-fullstack&label=visualizações&color=0fa36b" />
   </div>
 </div>
 
@@ -66,5 +67,3 @@
 <hr />
 
 <h3 align="center">Colocar aqui depois imagens de: gmail, linkedin, discord, wpp, portifolio</h3>
-
-<img src="https://komarev.com/ghpvc/?username=kikuti-fullstack&label=views&color=0fa36b" />
