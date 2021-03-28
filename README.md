@@ -20,7 +20,7 @@
 <hr />
 
 <div align="center">
-  <img align="right" width="320px" src="https://ayfaatechnology.com/wp-content/themes/ayfaa-theme/ayfaa/images/home.gif" alt="Um gif sobre tecnologia">
+  <img align="right" width="320px" src="https://disconnectedinfrastructures.files.wordpress.com/2017/12/service_03_native.gif?w=648" alt="Um gif sobre tecnologia">
 
   <h3 align="left">🖥️ SOBRE MIM</h3>
 
