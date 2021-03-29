@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/-git-0fa36b?style=for-the-badge&logo=git&logoColor=fafafa&labelColor=0fa36b?" alt="GIT"/>
     <img src="https://img.shields.io/badge/-github-0fa36b?style=for-the-badge&logo=github&logoColor=fafafa&labelColor=0fa36b?" alt="GITHUB"/>
     <br />
-    <img src="https://komarev.com/ghpvc/?username=kikuti-fullstack&label=visualizações&color=0fa36b" />
+    <img src="https://komarev.com/ghpvc/?username=kikuti-fullstack&label=visualizações&color=0fa36b" alt="Contador de visualizações"/>
   </div>
 </div>
 
@@ -39,20 +39,24 @@
   <br />
   <img align="right" width="280px" src="https://s4.gifyu.com/images/content-homepage-digital-org-leader.gif" alt="Gif sobre tecnologia" />
 
-  <img align="center" width="400px" src="https://github-readme-stats.vercel.app/api?username=kikuti-fullstack&show_icons=true&theme=dark&title_color=0fa36b&text_color=fafafa&icon_color=0fa36b&bg_color=0d1117&locale=pt-br&border_radius=8&cache_seconds=1800&custom_title=Jo%C3%A3o%20Victor%20Kikuti%20- Estatísticas" alt="Imagem contendo estatísticas"/>
+  <img align="center" width="400px" src="https://github-readme-stats.vercel.app/api?username=kikuti-fullstack&show_icons=true&theme=dark&title_color=0fa36b&text_color=fafafa&icon_color=0fa36b&bg_color=0d1117&locale=pt-br&border_radius=8&cache_seconds=1800&custom_title=Jo%C3%A3o%20Victor%20Kikuti%20- Estatísticas" alt="Estatísticas da minha conta do github"/>
 
 <br />
 <br />
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kikuti-fullstack&layout=compact&text_color=fafafa&bg_color=0d1117&locale=pt-br&border_radius=8&cache_seconds=1800&theme=dark&title_color=0fa36b" alt="Imagem linguagens mais usadas"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kikuti-fullstack&layout=compact&text_color=fafafa&bg_color=0d1117&locale=pt-br&border_radius=8&cache_seconds=1800&theme=dark&title_color=0fa36b" alt="Linguagens mais usadas"/>
 </div>
 
 <br />
 <hr />
 
 <div align="center">
-⠀⠀<a href="https://github.com/kikuti-fullstack/kikuti-trybe-exercises"><img width="400px" src="https://github-readme-stats.vercel.app/api/pin/?username=kikuti-fullstack&repo=kikuti-trybe-exercises&show_icons=true&theme=dark&title_color=0fa36b&text_color=fff&icon_color=8E2DE2&cache_seconds=1800"></a>⠀⠀
-  <a href="https://github.com/kikuti-fullstack/kikuti-portifolio"><img width="400px" src="https://github-readme-stats.vercel.app/api/pin/?username=kikuti-fullstack&repo=kikuti-portifolio&show_icons=true&theme=dark&title_color=0fa36b&text_color=fff&icon_color=8E2DE2&cache_seconds=1800"></a>
+⠀⠀<a href="https://github.com/kikuti-fullstack/kikuti-trybe-exercises">
+    <img width="400px" src="https://github-readme-stats.vercel.app/api/pin/?username=kikuti-fullstack&repo=kikuti-trybe-exercises&show_icons=true&theme=dark&title_color=0fa36b&text_color=fff&icon_color=8E2DE2&cache_seconds=1800" alt="Repositório kikuti-trybe-exercises">
+  </a>⠀⠀
+  <a href="https://github.com/kikuti-fullstack/kikuti-portifolio">
+    <img width="400px" src="https://github-readme-stats.vercel.app/api/pin/?username=kikuti-fullstack&repo=kikuti-portifolio&show_icons=true&theme=dark&title_color=0fa36b&text_color=fff&icon_color=8E2DE2&cache_seconds=1800" alt="Repositório kikuti-portifólio">
+  </a>
 </div>
 
 <hr />
