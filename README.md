@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/kikuti-fullstack">
-    <img width="160px" src="https://avatars.githubusercontent.com/u/12498746?s=400&u=3a18bbe9442e24787a8a37edba6efb8953ce150b&v=4" alt="Ícone de perfil verde" />
+    <img width="160px" src="https://i.ibb.co/4JHvj9B/minha-logo-teste-auto-x1.png" alt="Ícone de perfil verde" />
   </a>
 
   <h3 align="center">🄷🄴🄻🄻🄾 🅆🄾🅁🄻🄳! <br/ > I'm kikuti!</h3>
