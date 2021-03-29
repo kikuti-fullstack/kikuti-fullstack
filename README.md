@@ -75,17 +75,14 @@
 <hr />
 
   <div align="center">
-    <a href="#">
+    <a href="https://discord.com/channels/@me/784135179983650856">
       <img src="https://img.shields.io/badge/Discord-0fa36b?style=for-the-badge&logo=discord&logoColor=fafafa&labelColor=0fa36b??" alt="discord"/>
     </a>
-    <a href="#">
+    <a href="https://wa.me/17991791755">
       <img src="https://img.shields.io/badge/WhatsApp-0fa36b?style=for-the-badge&logo=whatsapp&logoColor=fafafa&labelColor=0fa36b?" alt="whatsapp"/>
     </a>
-    <a href="#">
+    <a href="https://mail.google.com/mail/u/0/?fs=1&to=joaovictorkikuti@gmail.com&su=T%C3%ADtulo&body=Conte%C3%BAdo&tf=cm">
       <img src="https://img.shields.io/badge/Gmail-0fa36b?style=for-the-badge&logo=gmail&logoColor=fafafa&labelColor=0fa36b?" alt="gmail"/></a>
-    </a>
-    <a href="#">
-      <img src="https://img.shields.io/badge/Slack-0fa36b?style=for-the-badge&logo=slack&logoColor=fafafa&labelColor=0fa36b?" alt="slack"/>
     </a>
     <a href="#">
       <img src="https://img.shields.io/badge/LinkedIn-0fa36b?style=for-the-badge&logo=linkedin&logoColor=fafafa&labelColor=0fa36b?" alt="linkedin"/>
