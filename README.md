@@ -12,6 +12,8 @@
     <img src="https://img.shields.io/badge/-JavaScript%20es6-0fa36b?style=for-the-badge&logo=javascript&logoColor=fafafa&labelColor=0fa36b?" alt="JAVASCRIPT ES6"/>
     <img src="https://img.shields.io/badge/-git-0fa36b?style=for-the-badge&logo=git&logoColor=fafafa&labelColor=0fa36b?" alt="GIT"/>
     <img src="https://img.shields.io/badge/-github-0fa36b?style=for-the-badge&logo=github&logoColor=fafafa&labelColor=0fa36b?" alt="GITHUB"/>
+    <img src="https://img.shields.io/badge/Ubuntu-0fa36b?style=for-the-badge&logo=ubuntu&logoColor=fafafa&labelColor=0fa36b?" alt="UBUNTU"/>
+    <img src="https://img.shields.io/badge/Visual_Studio_Code-0fa36b?style=for-the-badge&logo=visual%20studio%20code&logoColor=fafafa&labelColor=0fa36b?" alt="VISUAL STUDIO CODE"/>
     <br />
     <img src="https://komarev.com/ghpvc/?username=kikuti-fullstack&label=visualizações&color=0fa36b" alt="Contador de visualizações"/>
   </div>
@@ -72,4 +74,11 @@
 
 <hr />
 
-<h3 align="center">Colocar aqui depois imagens de: gmail, linkedin, discord, wpp, portifolio</h3>
+  <div align="center">&logoColor=fafafa&labelColor=0fa36b?
+    <img src="https://img.shields.io/badge/Discord-0fa36b?style=for-the-badge&logo=discord&logoColor=fafafa&labelColor=0fa36b??" alt="DISCORD"/>
+    <img src="https://img.shields.io/badge/WhatsApp-0fa36b?style=for-the-badge&logo=whatsapp&logoColor=fafafa&labelColor=0fa36b?" alt="WHATSAPP"/>
+    <img src="https://img.shields.io/badge/Gmail-0fa36b?style=for-the-badge&logo=gmail&logoColor=fafafa&labelColor=0fa36b?" alt="GMAIL"/>
+    <img src="https://img.shields.io/badge/Slack-0fa36b?style=for-the-badge&logo=slack&logoColor=fafafa&labelColor=0fa36b?" alt="SLACK"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0fa36b?style=for-the-badge&logo=linkedin&logoColor=fafafa&labelColor=0fa36b?" alt="LINKEDIN"/>
+  </div>
+</div>
