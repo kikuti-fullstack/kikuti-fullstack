@@ -1,4 +1,3 @@
-
 <div align="center">
   <a href="https://github.com/kikuti-fullstack">
     <img width="160px" src="https://avatars.githubusercontent.com/u/12498746?s=400&u=3a18bbe9442e24787a8a37edba6efb8953ce150b&v=4" alt="Ícone de perfil verde" />
@@ -7,13 +6,14 @@
   <h3 align="center">🄷🄴🄻🄻🄾 🅆🄾🅁🄻🄳! <br/ > I'm kikuti!</h3>
 
   <div align="center">
-    <img src="https://img.shields.io/badge/html%205-0fa36b?style=for-the-badge&logo=html5&logoColor=fafafa&labelColor=0fa36b?" alt="html 5"/>
-    <img src="https://img.shields.io/badge/css%203-0fa36b?style=for-the-badge&logo=css3&logoColor=fafafa&labelColor=0fa36b?" alt="css 3"/>
-    <img src="https://img.shields.io/badge/-JavaScript%20es6-0fa36b?style=for-the-badge&logo=javascript&logoColor=fafafa&labelColor=0fa36b?" alt="javascript ES6"/>
-    <img src="https://img.shields.io/badge/-git-0fa36b?style=for-the-badge&logo=git&logoColor=fafafa&labelColor=0fa36b?" alt="git"/>
-    <img src="https://img.shields.io/badge/-github-0fa36b?style=for-the-badge&logo=github&logoColor=fafafa&labelColor=0fa36b?" alt="github"/>
-    <img src="https://img.shields.io/badge/Ubuntu-0fa36b?style=for-the-badge&logo=ubuntu&logoColor=fafafa&labelColor=0fa36b?" alt="ubuntu"/>
-    <img src="https://img.shields.io/badge/Visual_Studio_Code-0fa36b?style=for-the-badge&logo=visual%20studio%20code&logoColor=fafafa&labelColor=0fa36b?" alt="visual studio code"/>
+    <img src="https://img.shields.io/badge/html%205-0fa36b?style=for-the-badge&logo=html5&logoColor=white&labelColor=0fa36b?" alt="html 5"/>
+    <img src="https://img.shields.io/badge/css%203-0fa36b?style=for-the-badge&logo=css3&logoColor=white&labelColor=0fa36b?" alt="css 3"/>
+    <img src="https://img.shields.io/badge/-JavaScript%20es6-0fa36b?style=for-the-badge&logo=javascript&logoColor=white&labelColor=0fa36b?" alt="javascript ES6"/>
+    <img src="https://img.shields.io/badge/-git-0fa36b?style=for-the-badge&logo=git&logoColor=white&labelColor=0fa36b?" alt="git"/>
+    <img src="https://img.shields.io/badge/-github-0fa36b?style=for-the-badge&logo=github&logoColor=white&labelColor=0fa36b?" alt="github"/>
+    <br />
+    <img src="https://img.shields.io/badge/Ubuntu-0fa36b?style=for-the-badge&logo=ubuntu&logoColor=white&labelColor=0fa36b?" alt="ubuntu"/>
+    <img src="https://img.shields.io/badge/Visual_Studio_Code-0fa36b?style=for-the-badge&logo=visual%20studio%20code&logoColor=white&labelColor=0fa36b?" alt="visual studio code"/>
     <br />
     <img src="https://komarev.com/ghpvc/?username=kikuti-fullstack&label=visualizações&color=0fa36b" alt="contador de visualizações"/>
   </div>
@@ -41,12 +41,12 @@
   <br />
   <img align="right" width="280px" src="https://s4.gifyu.com/images/content-homepage-digital-org-leader.gif" alt="gif sobre tecnologia" />
 
-  <img align="center" width="400px" src="https://github-readme-stats.vercel.app/api?username=kikuti-fullstack&show_icons=true&theme=dark&title_color=0fa36b&text_color=fafafa&icon_color=0fa36b&bg_color=0d1117&locale=pt-br&border_radius=8&cache_seconds=1800&custom_title=Jo%C3%A3o%20Victor%20Kikuti%20- Estatísticas" alt="estatísticas da minha conta do github"/>
+  <img align="center" width="400px" src="https://github-readme-stats.vercel.app/api?username=kikuti-fullstack&show_icons=true&theme=dark&title_color=0fa36b&text_color=white&icon_color=0fa36b&bg_color=0d1117&locale=pt-br&border_radius=8&cache_seconds=1800&custom_title=Jo%C3%A3o%20Victor%20Kikuti%20- Estatísticas" alt="estatísticas da minha conta do github"/>
 
 <br />
 <br />
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kikuti-fullstack&layout=compact&text_color=fafafa&bg_color=0d1117&locale=pt-br&border_radius=8&cache_seconds=1800&theme=dark&title_color=0fa36b" alt="linguagens mais usadas"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kikuti-fullstack&layout=compact&text_color=white&bg_color=0d1117&locale=pt-br&border_radius=8&cache_seconds=1800&theme=dark&title_color=0fa36b" alt="linguagens mais usadas"/>
 </div>
 
 <br />
@@ -76,16 +76,16 @@
 
   <div align="center">
     <a href="https://discord.com/channels/@me/784135179983650856">
-      <img src="https://img.shields.io/badge/Discord-0fa36b?style=for-the-badge&logo=discord&logoColor=fafafa&labelColor=0fa36b??" alt="discord"/>
+      <img src="https://img.shields.io/badge/Discord-0fa36b?style=for-the-badge&logo=discord&logoColor=white&labelColor=0fa36b??" alt="discord"/>
     </a>
     <a href="https://wa.me/17991791755">
-      <img src="https://img.shields.io/badge/WhatsApp-0fa36b?style=for-the-badge&logo=whatsapp&logoColor=fafafa&labelColor=0fa36b?" alt="whatsapp"/>
+      <img src="https://img.shields.io/badge/WhatsApp-0fa36b?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=0fa36b?" alt="whatsapp"/>
     </a>
     <a href="https://mail.google.com/mail/u/0/?fs=1&to=joaovictorkikuti@gmail.com&su=T%C3%ADtulo&body=Conte%C3%BAdo&tf=cm">
-      <img src="https://img.shields.io/badge/Gmail-0fa36b?style=for-the-badge&logo=gmail&logoColor=fafafa&labelColor=0fa36b?" alt="gmail"/></a>
+      <img src="https://img.shields.io/badge/Gmail-0fa36b?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0fa36b?" alt="gmail"/></a>
     </a>
     <a href="#">
-      <img src="https://img.shields.io/badge/LinkedIn-0fa36b?style=for-the-badge&logo=linkedin&logoColor=fafafa&labelColor=0fa36b?" alt="linkedin"/>
+      <img src="https://img.shields.io/badge/LinkedIn-0fa36b?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0fa36b?" alt="linkedin"/>
     </a>
   </div>
 </div>
