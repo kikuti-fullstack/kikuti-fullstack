@@ -7,10 +7,9 @@
   <h3 align="center">🄷🄴🄻🄻🄾 🅆🄾🅁🄻🄳! <br/ > I'm kikuti!</h3>
 
   <div align="center">
-    <img src="" alt="Linguagens que eu domino:"/>
     <img src="https://img.shields.io/badge/html%205-0fa36b?style=for-the-badge&logo=html5&logoColor=fafafa&labelColor=0fa36b?" alt="HTML 5"/>
     <img src="https://img.shields.io/badge/css%203-0fa36b?style=for-the-badge&logo=css3&logoColor=fafafa&labelColor=0fa36b?" alt="CSS 3"/>
-    <img src="https://img.shields.io/badge/-JavaScript%2ES6-0fa36b?style=for-the-badge&logo=javascript&logoColor=fafafa&labelColor=0fa36b?" alt="JAVASCRIPT ES6"/>
+    <img src="https://img.shields.io/badge/-JavaScript%20es6-0fa36b?style=for-the-badge&logo=javascript&logoColor=fafafa&labelColor=0fa36b?" alt="JAVASCRIPT ES6"/>
     <img src="https://img.shields.io/badge/-git-0fa36b?style=for-the-badge&logo=git&logoColor=fafafa&labelColor=0fa36b?" alt="GIT"/>
     <img src="https://img.shields.io/badge/-github-0fa36b?style=for-the-badge&logo=github&logoColor=fafafa&labelColor=0fa36b?" alt="GITHUB"/>
     <br />
