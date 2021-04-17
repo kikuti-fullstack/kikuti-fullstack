@@ -53,7 +53,7 @@
 <hr />
 
 <div align="center">
-⠀⠀<a href="https://github.com/kikutii/kikuti-trybe-exercises">
+  <a href="https://github.com/kikutii/kikuti-trybe-exercises">
     <img width="400px" src="https://github-readme-stats.vercel.app/api/pin/?username=kikutii&repo=kikuti-trybe-exercises&show_icons=true&theme=dark&title_color=0fa36b&text_color=fff&icon_color=white&cache_seconds=1800" alt="repositório kikuti-trybe-exercises">
   </a>⠀⠀
   <a href="https://github.com/kikutii/kikuti-portifolio">
