@@ -15,7 +15,7 @@
     <img src="https://img.shields.io/badge/Ubuntu-0fa36b?style=for-the-badge&logo=ubuntu&logoColor=fff&labelColor=0fa36b?" alt="ubuntu"/>
     <img src="https://img.shields.io/badge/Visual_Studio_Code-0fa36b?style=for-the-badge&logo=visual%20studio%20code&logoColor=fff&labelColor=0fa36b?" alt="visual studio code"/>
     <br />
-    <img src="https://komarev.com/ghpvc/?username=kikutii&color=0fa36b" alt="contador de visualizações"/>
+    <img src="https://komarev.com/ghpvc/?username=kikutii&color=0fa36b&label=views" alt="contador de visualizações"/>
   </div>
 </div>
 
