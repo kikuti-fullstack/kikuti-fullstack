@@ -65,14 +65,6 @@
 
 <h4 align="center">♥️ Recomendação de amigos e professores ♥️</h4>
 
-<ul>
-  <li><a href="https://github.com/ednilsonlomazi" target="_blank"><strong>🐧 Ednilson Lomazi</strong></a><span> - amigo de faculdade, domina {Python, C++, C, SQL, Linux} - "A famosa rapumsel."</span></li>
-  <li><a href="https://github.com/williansbueno" target="_blank"><strong>⚙️ Willians Bueno</strong></a><span> - coordenador da faculdade, sabe de tudo sobre {S.O (sistema operacional) e Hardware} - "Linux trava SIM!"</span></li>
-  <li><a href="#" target="_blank"><strong>🌈 Wendeu</strong></a><span> - professor da faculdade, mestre em {Oferecer os glúteos} - "Essa imagem ta perdendo a qualidade..."</span></li>
-  <li><a href="https://github.com/alexandresalvatierra" target="_blank"><strong>🌐 Alexandre Salvatierra</strong></a><span> - professor da faculdade, domina {Web (Front-end, Back-end), Design e Python} - "Nem em 1839 teriam uma câmera tão ruim igual a que ele tem."</span></li>
-  <li><a href="https://github.com/gfpoliva" target="_blank"><strong>💣 Gabriel Oliva</strong></a><span> - professor da trybe, domina tudo, é quase onisciente {Html, Css, Javascript, Git, Github, Swift, Php e Xablau} - "Yes or Not?"</span></li>
-</ul>
-
 <hr />
 
   <div align="center">
