@@ -63,10 +63,6 @@
 
 <hr />
 
-<h4 align="center">♥️ Recomendação de amigos e professores ♥️</h4>
-
-<hr />
-
   <div align="center">
     <a href="https://discord.com/channels/@me/784135179983650856">
       <img src="https://img.shields.io/badge/Discord-0fa36b?style=for-the-badge&logo=discord&logoColor=fff&labelColor=0fa36b??" alt="discord"/>
