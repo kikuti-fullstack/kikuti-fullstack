@@ -6,17 +6,19 @@
   <h3 align="center">🄷🄴🄻🄻🄾 🅆🄾🅁🄻🄳! <br/ > I'm kikuti!</h3>
 
   <div align="center">
+    <img src="https://img.shields.io/badge/-JavaScript%20es6-0fa36b?style=for-the-badge&logo=javascript&logoColor=fff&labelColor=0fa36b?" alt="javascript es6"/>
+    <img src="https://img.shields.io/badge/React-0fa36b?style=for-the-badge&logo=react&logoColor=fff&labelColor=0fa36b?" alt="react"/>
+    <img src="https://img.shields.io/badge/Node.js-0fa36b?style=for-the-badge&logo=node-dot-js&logoColor=fff&labelColor=0fa36b?" alt="node js"/>
     <img src="https://img.shields.io/badge/html5-0fa36b?style=for-the-badge&logo=html5&logoColor=fff&labelColor=0fa36b?" alt="html 5"/>
     <img src="https://img.shields.io/badge/css3-0fa36b?style=for-the-badge&logo=css3&logoColor=fff&labelColor=0fa36b?" alt="css 3"/>
-    <img src="https://img.shields.io/badge/-JavaScript%20es6-0fa36b?style=for-the-badge&logo=javascript&logoColor=fff&labelColor=0fa36b?" alt="javascript es6"/>
-    <img src="https://img.shields.io/badge/Node.js-0fa36b?style=for-the-badge&logo=node-dot-js&logoColor=fff&labelColor=0fa36b?" alt="node js"/>
-    <img src="https://img.shields.io/badge/Figma-0fa36b?style=for-the-badge&logo=figma&logoColor=fff&labelColor=0fa36b?" alt="figma"/>
     <br />
+    <img src="https://img.shields.io/badge/Figma-0fa36b?style=for-the-badge&logo=figma&logoColor=fff&labelColor=0fa36b?" alt="figma"/>
     <img src="https://img.shields.io/badge/Jest-0fa36b?style=for-the-badge&logo=jest&logoColor=fff&labelColor=0fa36b?" alt="jest"/>
-    <img src="https://img.shields.io/badge/Ubuntu-0fa36b?style=for-the-badge&logo=ubuntu&logoColor=fff&labelColor=0fa36b?" alt="ubuntu"/>
-    <img src="https://img.shields.io/badge/VS_Code-0fa36b?style=for-the-badge&logo=visual%20studio%20code&logoColor=fff&labelColor=0fa36b?" alt="visual studio code"/>
     <img src="https://img.shields.io/badge/-git-0fa36b?style=for-the-badge&logo=git&logoColor=fff&labelColor=0fa36b?" alt="git"/>
     <img src="https://img.shields.io/badge/-github-0fa36b?style=for-the-badge&logo=github&logoColor=fff&labelColor=0fa36b?" alt="github"/>
+    <br />
+    <img src="https://img.shields.io/badge/Linux-0fa36b?style=for-the-badge&logo=linux&logoColor=fff&labelColor=0fa36b?" alt="linux"/>
+    <img src="https://img.shields.io/badge/VS_Code-0fa36b?style=for-the-badge&logo=visual%20studio%20code&logoColor=fff&labelColor=0fa36b?" alt="visual studio code"/>
     <br />
     <img src="https://komarev.com/ghpvc/?username=kikutii&color=0fa36b&label=views" alt="contador de visualizações"/>
   </div>
