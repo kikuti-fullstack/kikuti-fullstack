@@ -78,7 +78,7 @@
     <a href="https://mail.google.com/mail/u/0/?fs=1&to=joaovictorkikuti@gmail.com&su=T%C3%ADtulo&body=Conte%C3%BAdo&tf=cm">
       <img src="https://img.shields.io/badge/Gmail-0fa36b?style=for-the-badge&logo=gmail&logoColor=fff&labelColor=0fa36b?" alt="gmail"/></a>
     </a>
-    <a href="#">
+    <a href="https://www.linkedin.com/in/jo%C3%A3o-victor-kikuti-96a12020a/">
       <img src="https://img.shields.io/badge/LinkedIn-0fa36b?style=for-the-badge&logo=linkedin&logoColor=fff&labelColor=0fa36b?" alt="linkedin"/>
     </a>
   </div>
