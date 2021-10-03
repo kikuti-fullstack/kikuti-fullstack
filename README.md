@@ -36,6 +36,8 @@
   <p align="left"><strong>Quem sou:</strong> Eu sou João Victor Kikuti, um programador focado em web que gosta muito de mexer com design, front end e back end. Atualmente estudo na Unifeb (ensino superior, Barretos-SP) e na Trybe (curso de especialização web). Nasci em uma cidade pequena, mas sempre tive um grande sonho de aprender o máximo possível de tudo que envolva tecnologia.</p>
 
   <p align="left"><strong>Objetivo:</strong> pretendo ser um programador fullstack, eu adoro tudo que envolva programação ou que dependa de raciocínio lógico desde criança.</p>
+  
+  <p>Discord: kikuti#4021</p>
 </div>
 
 </ul>
@@ -69,9 +71,6 @@
 <hr />
 
   <div align="center">
-    <a href="https://discord.com/channels/@me/784135179983650856">
-      <img src="https://img.shields.io/badge/Discord-0fa36b?style=for-the-badge&logo=discord&logoColor=fff&labelColor=0fa36b??" alt="discord"/>
-    </a>
     <a href="https://wa.me/17991791755">
       <img src="https://img.shields.io/badge/WhatsApp-0fa36b?style=for-the-badge&logo=whatsapp&logoColor=fff&labelColor=0fa36b?" alt="whatsapp"/>
     </a>
