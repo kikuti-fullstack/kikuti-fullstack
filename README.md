@@ -9,7 +9,7 @@
       <h3 align="center">🄷🄴🄻🄻🄾 🅆🄾🅁🄻🄳!<br/ >I'm kikuti!</h3>
     </td>
     <td valign="middle">
-      <div align="center">
+      <div align="center" width="400px">
         <img src="https://img.shields.io/badge/-JavaScript%20es6-0fa36b?style=for-the-badge&logo=javascript&logoColor=fff&labelColor=0fa36b?" alt="javascript es6"/>
         <img src="https://img.shields.io/badge/React-0fa36b?style=for-the-badge&logo=react&logoColor=fff&labelColor=0fa36b?" alt="react"/>
         <img src="https://img.shields.io/badge/Node.js-0fa36b?style=for-the-badge&logo=node-dot-js&logoColor=fff&labelColor=0fa36b?" alt="node js"/>
