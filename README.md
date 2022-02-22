@@ -35,7 +35,7 @@
 
   <h3 align="left">🖥️ SOBRE MIM</h3>
 
-  <p align="left">Eu sou João Victor Kikuti, um programador focado em web que gosta muito de mexer com design, front end e back end. Atualmente estudo na Trybe (curso de especialização web) e estudei na Unifeb (ensino superior, Barretos-SP). Tenho um sonho de futuramente morar e trabalhar em Portugal como programador fullstack</p>
+  <p align="left">Eu sou João Victor Kikuti, um programador focado em web que gosta muito de mexer com design, front end e back end. Atualmente estudo na Trybe (curso de especialização web) e estudei na Unifeb (ensino superior, Barretos-SP). Tenho um sonho de futuramente morar e trabalhar em Portugal como programador fullstack.</p>
   
   <p><strong>Discord para contato</strong>: kikuti#4021</p>
 </div>
