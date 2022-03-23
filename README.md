@@ -31,13 +31,32 @@
 <br />
 
 <div align="center">
-  <img align="right" width="320px" src="https://s4.gifyu.com/images/homef999619503045bfe.gif" alt="gif sobre tecnologia" />
-
   <h3 align="left">🖥️ SOBRE MIM</h3>
 
-  <p align="left">Eu sou João Victor Kikuti, um programador focado em web que gosta muito de mexer com design, front end e back end. Atualmente estudo na Trybe (curso de especialização web) e estudei na Unifeb (ensino superior, Barretos-SP). Tenho um sonho de futuramente morar e trabalhar em Portugal como programador fullstack.</p>
-  
-  <p><strong>Discord para contato</strong>: kikuti#4021</p>
+  <p align="left">Atualmente estudando na Trybe (curso de especialização web) e estudei na Unifeb (ensino superior, Barretos-SP).</p>
+  <table>
+  <tr>
+    <th>Soft Skills</th>
+    <th>React</th>
+    <th>Redux</th>
+    <th>React Router</th>
+    <th>RTL</th>
+  </tr>
+  <tr>
+    <th>Javascript es6</th>
+    <th>Node.js</th>
+    <th>Jest</th>
+    <th>Html 5</th>
+    <th>Css 3</th>
+  </tr>
+  <tr>
+    <th>Figma</th>
+    <th>Git</th>
+    <th>Github</th>
+    <th>Linux</th>
+    <th>Visual Studio Code</th>
+  </tr>
+  </table>
 </div>
 
 <hr />
