@@ -16,11 +16,6 @@
       </a>
       <br />
       <br />
-      <a href="https://wa.me/17991791755">
-        <img align="center" src="https://img.shields.io/badge/WhatsApp-0fa36b?style=for-the-badge&logo=whatsapp&logoColor=fff&labelColor=0fa36b?" alt="whatsapp"/>
-      </a>
-      <br />
-      <br />
       <a href="https://mail.google.com/mail/u/0/?fs=1&to=joaovictorkikuti@gmail.com&su=T%C3%ADtulo&body=Conte%C3%BAdo&tf=cm">
         <img align="center" src="https://img.shields.io/badge/Gmail-0fa36b?style=for-the-badge&logo=gmail&logoColor=fff&labelColor=0fa36b?" alt="gmail"/>
       </a>
