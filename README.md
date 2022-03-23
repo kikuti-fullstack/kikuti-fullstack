@@ -70,15 +70,3 @@
 
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kikutii&layout=compact&text_color=fff&bg_color=0d1117&locale=en&border_radius=8&cache_seconds=1800&theme=dark&title_color=0fa36b&custom_title=most used languages" alt="linguagens mais usadas"/>
 </div>
-
-<br />
-<hr />
-
-<div align="center">
-  <a href="https://github.com/kikutii/kikuti-trybe-exercises">
-    <img width="400px" src="https://github-readme-stats.vercel.app/api/pin/?username=kikutii&repo=kikuti-trybe-exercises&show_icons=true&theme=dark&title_color=0fa36b&text_color=fff&icon_color=white&cache_seconds=1800" alt="repositório kikuti-trybe-exercises">
-  </a>⠀⠀
-  <a href="https://github.com/kikutii/kikuti-portifolio">
-    <img width="400px" src="https://github-readme-stats.vercel.app/api/pin/?username=kikutii&repo=kikuti-portifolio&show_icons=true&theme=dark&title_color=0fa36b&text_color=fff&icon_color=white&cache_seconds=1800" alt="repositório kikuti-portifólio">
-  </a>
-</div>
