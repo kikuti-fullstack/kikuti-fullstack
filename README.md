@@ -6,7 +6,7 @@
       </a>
     </td>
     <td width="180" align="center">
-      <h3>🄷🄴🄻🄻🄾 🅆🄾🅁🄻🄳!<br/ >I'm kikuti!</h3>
+      <p><b>🄷🄴🄻🄻🄾 🅆🄾🅁🄻🄳!<br/ >I'm kikuti!</b></p>
       <hr />
       <!---https://github.com/antonkomarev/github-profile-views-counter--->
       <img src="https://komarev.com/ghpvc/?username=kikutii&color=7c00ff&label=views&style=flat-square" alt="contador de visualizações"/>
