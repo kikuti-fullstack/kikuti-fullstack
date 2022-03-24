@@ -1,17 +1,17 @@
 <table align="center">
   <tr>
-    <td>
+    <td width="180" align="center">
       <a href="https://github.com/kikutii">
-        <img align="center" width="160px" src="https://avatars.githubusercontent.com/u/12498746?s=400&u=3a18bbe9442e24787a8a37edba6efb8953ce150b&v=4" alt="Ícone de perfil" />
+        <img align="center" width="120px" src="https://avatars.githubusercontent.com/u/12498746?s=400&u=3a18bbe9442e24787a8a37edba6efb8953ce150b&v=4" alt="Ícone de perfil" />
       </a>
     </td>
-    <td align="center">
+    <td width="180" align="center">
       <h3>🄷🄴🄻🄻🄾 🅆🄾🅁🄻🄳!<br/ >I'm kikuti!</h3>
       <hr />
       <!---https://github.com/antonkomarev/github-profile-views-counter--->
       <img src="https://komarev.com/ghpvc/?username=kikutii&color=7c00ff&label=views&style=flat-square" alt="contador de visualizações"/>
     </td>
-    <td align="center">
+    <td width="180" align="center">
       <!---https://shields.io/category/build--->
       <a href="https://www.linkedin.com/in/jo%C3%A3o-victor-kikuti-96a12020a/">
         <img align="center" src="https://img.shields.io/badge/LinkedIn-7c00ff?style=for-the-badge&logo=linkedin&logoColor=fff&labelColor=0fa36b?" alt="linkedin"/>
