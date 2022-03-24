@@ -8,16 +8,18 @@
     <td align="center">
       <h3>🄷🄴🄻🄻🄾 🅆🄾🅁🄻🄳!<br/ >I'm kikuti!</h3>
       <hr />
-      <img src="https://komarev.com/ghpvc/?username=kikutii&color=0fa36b&label=views" alt="contador de visualizações"/>
+      <!---https://github.com/antonkomarev/github-profile-views-counter--->
+      <img src="https://komarev.com/ghpvc/?username=kikutii&color=7c00ff&label=views&style=flat-square" alt="contador de visualizações"/>
     </td>
     <td align="center">
+      <!---https://shields.io/category/build--->
       <a href="https://www.linkedin.com/in/jo%C3%A3o-victor-kikuti-96a12020a/">
-        <img align="center" src="https://img.shields.io/badge/LinkedIn-0fa36b?style=for-the-badge&logo=linkedin&logoColor=fff&labelColor=0fa36b?" alt="linkedin"/>
+        <img align="center" src="https://img.shields.io/badge/LinkedIn-7c00ff?style=for-the-badge&logo=linkedin&logoColor=fff&labelColor=0fa36b?" alt="linkedin"/>
       </a>
       <br />
       <br />
       <a href="https://mail.google.com/mail/u/0/?fs=1&to=joaovictorkikuti@gmail.com&su=T%C3%ADtulo&body=Conte%C3%BAdo&tf=cm">
-        <img align="center" src="https://img.shields.io/badge/Gmail-0fa36b?style=for-the-badge&logo=gmail&logoColor=fff&labelColor=0fa36b?" alt="gmail"/>
+        <img align="center" src="https://img.shields.io/badge/Gmail-7c00ff?style=for-the-badge&logo=gmail&logoColor=fff&labelColor=0fa36b?" alt="gmail"/>
       </a>
     </td>
   </tr>
@@ -63,9 +65,9 @@
   <br />
   <img align="right" width="280px" src="https://s4.gifyu.com/images/content-homepage-digital-org-leader.gif" alt="gif sobre tecnologia" />
 
-  <img width="400px" src="https://github-readme-stats.vercel.app/api?username=kikutii&show_icons=true&theme=dark&title_color=0fa36b&text_color=fff&icon_color=0fa36b&bg_color=0d1117&locale=en&border_radius=8&cache_seconds=1800" alt="estatísticas da minha conta do github"/>
+  <img width="400px" src="https://github-readme-stats.vercel.app/api?username=kikutii&show_icons=true&theme=dark&title_color=7c00ff&text_color=fff&icon_color=7c00ff&bg_color=0d1117&locale=en&border_radius=8&cache_seconds=1800" alt="estatísticas da minha conta do github"/>
 
   <br />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kikutii&layout=compact&text_color=fff&bg_color=0d1117&locale=en&border_radius=8&cache_seconds=1800&theme=dark&title_color=0fa36b&custom_title=most used languages" alt="linguagens mais usadas"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kikutii&layout=compact&text_color=fff&bg_color=0d1117&locale=en&border_radius=8&cache_seconds=1800&theme=dark&title_color=7c00ff&custom_title=most used languages" alt="linguagens mais usadas"/>
 </div>
