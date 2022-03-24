@@ -63,11 +63,8 @@
 
 <div align="center">
   <br />
-  <img align="right" width="280px" src="https://s4.gifyu.com/images/content-homepage-digital-org-leader.gif" alt="gif sobre tecnologia" />
 
-  <img width="400px" src="https://github-readme-stats.vercel.app/api?username=kikutii&show_icons=true&theme=dark&title_color=7c00ff&text_color=fff&icon_color=7c00ff&bg_color=0d1117&locale=en&border_radius=8&cache_seconds=1800" alt="estatísticas da minha conta do github"/>
+  <img align="center" width="400px" src="https://github-readme-stats.vercel.app/api?username=kikutii&show_icons=true&theme=dark&title_color=7c00ff&text_color=fff&icon_color=7c00ff&bg_color=0d1117&locale=en&border_radius=8&cache_seconds=1800" alt="estatísticas da minha conta do github"/>
 
-  <br />
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kikutii&layout=compact&text_color=fff&bg_color=0d1117&locale=en&border_radius=8&cache_seconds=1800&theme=dark&title_color=7c00ff&custom_title=Linguagens Mais Usadas" alt="linguagens mais usadas"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kikutii&layout=compact&text_color=fff&bg_color=0d1117&locale=en&border_radius=8&cache_seconds=1800&theme=dark&title_color=7c00ff&custom_title=Linguagens Mais Usadas" alt="linguagens mais usadas"/>
 </div>
