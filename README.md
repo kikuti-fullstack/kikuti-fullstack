@@ -52,6 +52,7 @@
     </tr>
     <tr>
       <th>Vs Code</th>
+      <th>SQL</th>
     </tr>
   </table>
   <h3 align="left">🖥️ SOBRE MIM</h3>
