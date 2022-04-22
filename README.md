@@ -37,24 +37,26 @@
       <th>React</th>
       <th>Redux</th>
       <th>React Router</th>
-      <th>RTL</th>
     </tr>
     <tr>
+      <th>RTL</th>
       <th>Javascript ES6</th>
       <th>Node.js</th>
       <th>Jest</th>
-      <th>Html 5</th>
-      <th>Figma</th>
     </tr>
     <tr>
+      <th>Html 5</th>
+      <th>Figma</th>
       <th>Css 3</th>
       <th>Responsive Css</th>
+    </tr>
+    <tr>
       <th>Git</th>
       <th>Github</th>
       <th>Linux</th>
+      <th>Vs Code</th>
     </tr>
     <tr>
-      <th>Vs Code</th>
       <th>SQL</th>
     </tr>
   </table>
