@@ -30,6 +30,9 @@
 <div align="center">
   <table>
     <tr>
+      <th align="center" colspan="6">SKILLS</th>
+    </tr>
+    <tr>
       <th>Soft Skills</th>
       <th>React</th>
       <th>Redux</th>
