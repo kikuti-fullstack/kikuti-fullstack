@@ -16,11 +16,6 @@
       <a href="https://www.linkedin.com/in/jo%C3%A3o-victor-kikuti-96a12020a/">
         <img align="center" src="https://img.shields.io/badge/LinkedIn-7c00ff?style=for-the-badge&logo=linkedin&logoColor=fff&labelColor=0fa36b?" alt="linkedin"/>
       </a>
-      <br />
-      <br />
-      <a href="https://mail.google.com/mail/u/0/?fs=1&to=joaovictorkikuti@gmail.com&su=T%C3%ADtulo&body=Conte%C3%BAdo&tf=cm">
-        <img align="center" src="https://img.shields.io/badge/Gmail-7c00ff?style=for-the-badge&logo=gmail&logoColor=fff&labelColor=0fa36b?" alt="gmail"/>
-      </a>
     </td>
   </tr>
 </table>
