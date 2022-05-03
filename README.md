@@ -20,8 +20,6 @@
   </tr>
 </table>
 
-<br />
-
 <div align="center">
   <table>
     <tr>
