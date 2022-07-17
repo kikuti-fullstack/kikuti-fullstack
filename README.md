@@ -29,7 +29,13 @@
       <th>Soft Skills</th>
       <th>React</th>
       <th>Redux</th>
+      <th>React Hooks</th>
+    <tr>
       <th>React Router</th>
+      <th>Context API</th>
+      <th>Componente Funcional</th>
+      <th>Componente De classe</th>
+    </tr>
     </tr>
     <tr>
       <th>RTL</th>
