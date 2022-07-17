@@ -34,11 +34,11 @@
       <th>React<br/>Router</th>
       <th>Context<br/>API</th>
       <th>RTL</th>
-      <th>Componente<br/>De Classe</th>
+      <th>Class<br/>Component</th>
     </tr>
     </tr>
     <tr>
-      <th>Componente<br/>Funcional</th>
+      <th>Functional<br/>Component</th>
       <th>Javascript<br/>ES6</th>
       <th>Node.js</th>
       <th>Jest</th>
