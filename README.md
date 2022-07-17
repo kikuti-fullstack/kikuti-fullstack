@@ -33,12 +33,12 @@
     <tr>
       <th>React Router</th>
       <th>Context API</th>
-      <th>Componente Funcional</th>
+      <th>RTL</th>
       <th>Componente De classe</th>
     </tr>
     </tr>
     <tr>
-      <th>RTL</th>
+      <th>Componente Funcional</th>
       <th>Javascript ES6</th>
       <th>Node.js</th>
       <th>Jest</th>
