@@ -26,20 +26,20 @@
       <th align="center" colspan="6">SKILLS</th>
     </tr>
     <tr>
-      <th>Soft Skills</th>
+      <th>Soft<br/>Skills</th>
       <th>React</th>
       <th>Redux</th>
-      <th>React Hooks</th>
+      <th>React<br/>Hooks</th>
     <tr>
-      <th>React Router</th>
-      <th>Context API</th>
+      <th>React<br/>Router</th>
+      <th>Context<br/>API</th>
       <th>RTL</th>
-      <th>Componente De classe</th>
+      <th>Componente<br/>De Classe</th>
     </tr>
     </tr>
     <tr>
-      <th>Componente Funcional</th>
-      <th>Javascript ES6</th>
+      <th>Componente<br/>Funcional</th>
+      <th>Javascript<br/>ES6</th>
       <th>Node.js</th>
       <th>Jest</th>
     </tr>
@@ -47,7 +47,7 @@
       <th>Html 5</th>
       <th>Figma</th>
       <th>Css 3</th>
-      <th>Responsive Css</th>
+      <th>Responsive<br/>Css</th>
     </tr>
     <tr>
       <th>Git</th>
