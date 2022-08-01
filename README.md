@@ -21,41 +21,55 @@
 </table>
 
 <div align="center">
+<br />
   <table>
     <tr>
-      <th align="center" colspan="6">SKILLS</th>
+      <th align="center" colspan="6">SOFT SKILLS</th>
+    </tr>
+      <th>Critical<br/>Thinking</th>
+      <th>Creativity</th>
+      <th>Leadership</th>
     </tr>
     <tr>
-      <th>Soft<br/>Skills</th>
+      <th>Emotional<br/>intelligence</th>
+      <th>Communication</th>
+      <th>Collaboration</th>
+    </tr>
+  </table>
+
+  
+  <table>
+    <tr>
+      <th align="center" colspan="6">HARD SKILLS</th>
+    </tr>
+    <tr>
       <th>React</th>
       <th>Redux</th>
       <th>React<br/>Hooks</th>
-    <tr>
       <th>React<br/>Router</th>
+    </tr>
+    <tr>
       <th>Context<br/>API</th>
       <th>RTL</th>
       <th>Class<br/>Component</th>
-    </tr>
+      <th>Functional<br/>Component</th>
     </tr>
     <tr>
-      <th>Functional<br/>Component</th>
       <th>Javascript<br/>ES6</th>
       <th>Node.js</th>
       <th>Jest</th>
+      <th>Html 5</th>
     </tr>
     <tr>
-      <th>Html 5</th>
       <th>Figma</th>
       <th>Css 3</th>
       <th>Responsive<br/>Css</th>
+      <th>Git</th>
     </tr>
     <tr>
-      <th>Git</th>
       <th>Github</th>
       <th>Linux</th>
       <th>Vs Code</th>
-    </tr>
-    <tr>
       <th>SQL</th>
     </tr>
   </table>
