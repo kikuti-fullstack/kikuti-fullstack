@@ -24,22 +24,6 @@
 <br />
   <table>
     <tr>
-      <th align="center" colspan="6">SOFT SKILLS</th>
-    </tr>
-      <th>Critical<br/>Thinking</th>
-      <th>Creativity</th>
-      <th>Leadership</th>
-    </tr>
-    <tr>
-      <th>Emotional<br/>intelligence</th>
-      <th>Communication</th>
-      <th>Collaboration</th>
-    </tr>
-  </table>
-
-  
-  <table>
-    <tr>
       <th align="center" colspan="6">HARD SKILLS</th>
     </tr>
     <tr>
@@ -73,6 +57,23 @@
       <th>SQL</th>
     </tr>
   </table>
+
+  <table>
+    <tr>
+      <th align="center" colspan="6">SOFT SKILLS</th>
+    </tr>
+      <th>Critical<br/>Thinking</th>
+      <th>Creativity</th>
+      <th>Leadership</th>
+    </tr>
+    <tr>
+      <th>Emotional<br/>intelligence</th>
+      <th>Communication</th>
+      <th>Collaboration</th>
+    </tr>
+  </table>
+  <br />
+
   <h3 align="left">🖥️ SOBRE MIM</h3>
 
   <p align="left">Atualmente estudando na Trybe (curso de especialização web) e estudei na Unifeb (ensino superior, Barretos-SP).</p>
