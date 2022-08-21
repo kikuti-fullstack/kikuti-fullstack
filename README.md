@@ -41,22 +41,18 @@
     <tr>
       <th>Context<br/>API</th>
       <th>RTL</th>
-      <th>Class<br/>Component</th>
-      <th>Functional<br/>Component</th>
-    </tr>
-    <tr>
       <th>Javascript<br/>ES6</th>
       <th>Node.js</th>
+    </tr>
+    <tr>
       <th>Jest</th>
       <th>Html 5</th>
-    </tr>
-    <tr>
       <th>Figma</th>
       <th>Css 3</th>
-      <th>Responsive<br/>Css</th>
-      <th>Git</th>
     </tr>
     <tr>
+      <th>Responsive<br/>Css</th>
+      <th>Git</th>
       <th>Github</th>
       <th>Vs Code</th>
     </tr>
