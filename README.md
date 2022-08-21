@@ -27,6 +27,12 @@
       <th align="center" colspan="6">HARD SKILLS</th>
     </tr>
     <tr>
+      <th>MySql</th>
+      <th>NoSql</th>
+      <th>SQL</th>
+      <th>Linux</th>
+    </tr>
+    <tr>
       <th>React</th>
       <th>Redux</th>
       <th>React<br/>Hooks</th>
@@ -52,9 +58,7 @@
     </tr>
     <tr>
       <th>Github</th>
-      <th>Linux</th>
       <th>Vs Code</th>
-      <th>SQL</th>
     </tr>
   </table>
 
