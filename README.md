@@ -13,7 +13,7 @@
     </td>
     <td width="180" align="center">
       <!---https://shields.io/category/build--->
-      <a href="www.linkedin.com/in/kikutii">
+      <a href="https://www.linkedin.com/in/kikutii">
         <img align="center" src="https://img.shields.io/badge/LinkedIn-178b68?style=for-the-badge&logo=linkedin&logoColor=fff&labelColor=0fa36b?" alt="linkedin"/>
       </a>
     </td>
