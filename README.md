@@ -73,19 +73,21 @@
     </tr>
   </table>
   <br />
+  
+  <hr />
 
   <h3 align="left">🖥️ SOBRE MIM</h3>
 
   <p align="left">Atualmente estudando na Trybe (curso de especialização web) e estudei na Unifeb (ensino superior, Barretos-SP).</p>
 </div>
 
-<hr />
+<!-- <hr /> -->
 
-<div align="center">
+<!-- <div align="center">
   <br />
 &nbsp&nbsp&nbsp&nbsp
   <img align="center" width="400px" src="https://github-readme-stats.vercel.app/api?username=kikutii&hide_border=true&show_icons=true&theme=dark&title_color=178b68&text_color=9c9d9d&icon_color=178b68&bg_color=00000000&cache_seconds=1800" alt="estatísticas da minha conta do github"/>
 &nbsp&nbsp&nbsp&nbsp
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kikutii&hide_border=true&layout=compact&text_color=9c9d9d&bg_color=00000000&locale=en&cache_seconds=1800&theme=dark&title_color=178b68" alt="linguagens mais usadas"/>
 </div>
-&nbsp&nbsp&nbsp&nbsp
+&nbsp&nbsp&nbsp&nbsp -->
