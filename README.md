@@ -11,12 +11,7 @@
       <!---https://github.com/antonkomarev/github-profile-views-counter--->
       <img src="https://komarev.com/ghpvc/?username=kikutii&color=178b68&label=views&style=flat-square" alt="contador de visualizações"/>
     </td>
-    <td width="180" align="center">
-      <!---https://shields.io/category/build--->
-      <a href="https://www.linkedin.com/in/kikutii">
-        <img align="center" src="https://img.shields.io/badge/LinkedIn-178b68?style=for-the-badge&logo=linkedin&logoColor=fff&labelColor=0fa36b?" alt="linkedin"/>
-      </a>
-    </td>
+    <!---https://shields.io/category/build--->
   </tr>
 </table>
 
@@ -57,32 +52,8 @@
       <th>Vs Code</th>
     </tr>
   </table>
-
-  <table>
-    <tr>
-      <th align="center" colspan="6">SOFT SKILLS</th>
-    </tr>
-      <th>Critical<br/>Thinking</th>
-      <th>Creativity</th>
-      <th>Leadership</th>
-    </tr>
-    <tr>
-      <th>Emotional<br/>intelligence</th>
-      <th>Communication</th>
-      <th>Collaboration</th>
-    </tr>
-  </table>
   <br />
-  
-  <hr />
-
-  <h3 align="left">🖥️ SOBRE MIM</h3>
-
-  <p align="left">Atualmente estudando na Trybe (curso de especialização web) e estudei na Unifeb (ensino superior, Barretos-SP).</p>
-</div>
-
 <!-- <hr /> -->
-
 <!-- <div align="center">
   <br />
 &nbsp&nbsp&nbsp&nbsp
