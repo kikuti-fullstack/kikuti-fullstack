@@ -1,7 +1,7 @@
 <table align="center">
   <tr>
     <td width="180" align="center">
-      <a href="https://github.com/kikutii">
+      <a href="https://github.com/steteler">
         <img align="center" width="120px" src="https://avatars.githubusercontent.com/u/12498746?s=400&u=3a18bbe9442e24787a8a37edba6efb8953ce150b&v=4" alt="Ícone de perfil" />
       </a>
     </td>
