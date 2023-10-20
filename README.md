@@ -13,9 +13,9 @@
     </td>
     <!---https://shields.io/category/build--->
   </tr>
-
-  <div>
-    <span>Email: joaovictorkikuti@gmail.com</span>
-    <span>Número: +55 17 99166 1057</span>
-  </div>
 </table>
+
+  <div align="center">
+    <p>Email: joaovictorkikuti@gmail.com</p>
+    <p>Número: +55 17 99166 1057</p>
+  </div>
