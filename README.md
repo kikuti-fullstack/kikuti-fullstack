@@ -41,7 +41,7 @@
 
 <div>
     <h2>👨🏻‍💻 tecnologias ~</h2>
-    <p>🎨 front-end / ⚙️ back-end ➜ Javascript Typescript   Jest</p>
+    <p>🎨 front-end / ⚙️ back-end ➜ Javascript   Typescript   Jest</p>
     <p>🎨 front-end ➜ React.js   Next.js   Redux Tailwind CSS   Bootstrap   Material   Sass / Scss   Cypress   RTL   Figma.</p>
     <p>⚙️ back-end ➜ Python   Express APIs RESTful Node.js   JWT   Pytest.</p>
     <p>💾 banco de dados ➜ MySQL / SQL   MongoDB / NoSQL   Firebase.</p>
