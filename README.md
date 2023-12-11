@@ -18,24 +18,29 @@
 <div>
     <h2>📝 sobre ~</h2>
     <span>
-        Estudante de Sistemas de Informação com
-        formação fullstack na Trybe. Domínio em
-        front-end (React, SASS, JS) e back-end (Node.js,
-        APIs REST, MySQL, MongoDB). Experiência com
-        metodologias ágeis, CI/CD, Kanbam / Scrum e soft
-        skills.
-        Atuo como professor de programação e inglês.
-        Também trabalho como freelancer em projetos
-        full-stack. Participo ativamente de projetos open
-        source, como o TableRise, onde sou responsável
-        pelo back-end e code reviews.
-        Busco uma oportunidade como desenvolvedor
-        web. Meu objetivo é me tornar um programador
-        cada vez melhor e ver meu código sendo parte
-        da história de uma empresa ou de alguém. Saber
-        que meu trabalho pode atingir positivamente a
-        vida de centenas ou milhares de pessoas me
-        motiva a evoluir cada vez mais.
+      Eu sou João Victor, mas mais conhecido como
+      Kikuti. Casado há 3 anos, trabalho com
+      programação desde os 14 anos.
+      Formado em Sistemas de Informação e com
+      formação fullstack na Trybe. Domínio em
+      front-end (React, Next, SASS, JS) e back-end
+      (Java, Node, Typescript, APIs REST, MySQL,
+      MongoDB). Experiência com metodologias
+      ágeis, CI/CD, Kanbam / Scrum e soft skills.
+      Atuo como professor de programação e inglês.
+      Também trabalho como freelancer em
+      projetos full-stack. Participo ativamente
+      de projetos open source, como o TableRise,
+      onde sou responsável pelo back-end e
+      code reviews.
+      Busco uma oportunidade como desenvolvedor
+      Java, Typescript ou Javascript. Meu objetivo é
+      me tornar um programador cada vez melhor e
+      ver meu código sendo parte da história de uma
+      empresa ou de alguém. Saber que meu trabalho
+      pode atingir positivamente a vida de centenas
+      ou milhares de pessoas me motiva a evoluir
+      cada vez mais.
     </span>
 </div>
 
